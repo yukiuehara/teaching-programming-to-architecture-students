@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](preparation.md)
+* [準備編 Preparation](preparation.md)
 
