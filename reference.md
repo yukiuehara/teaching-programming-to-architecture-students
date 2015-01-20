@@ -9,7 +9,7 @@
 * Javascript
 
 ### 数学関係
-
+TODO: 3Dゲーム数学が分かる本が必要かな
 
 ### Web関係
 * [three.js](http://threejs.org/)
