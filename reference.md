@@ -2,6 +2,14 @@
 
 このコースで示すプログラミングの方法やここで使う言語は数ある選択肢の中の一つでしかありません。補足が不足している部分もあったかと思います。読者のフィードバックや改訂を通じて本書もバージョンアップしていきますが、目下補足が必要だった時や次のステップ必要な参考文献リストを共有します。
 
+### Rhinoceros補足の本
+
+* [Rhinoceros+Grasshopper建築デザイン実践ハンドブック](http://www.amazon.co.jp/Rhinoceros-Grasshopper%E5%BB%BA%E7%AF%89%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%AE%9F%E8%B7%B5%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-%E5%BB%BA%E7%AF%89%E6%96%87%E5%8C%96%E3%82%B7%E3%83%8A%E3%82%B8%E3%83%BC-%E3%83%8E%E3%82%A4%E3%82%BA%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%84/dp/4395241239/ref=sr_1_1?ie=UTF8&qid=1421734175&sr=8-1&keywords=rhinoceros+grasshopper) - RhinocerosとGrasshopperの速習に最適です。
+
+### C#補足の本
+
+TODO:C#の本はどれがいいかな
+
 ### この他によく使うプログラミング言語
 
 * [Python](https://www.python.org/)
