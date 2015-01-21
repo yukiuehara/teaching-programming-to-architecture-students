@@ -17,6 +17,7 @@
 
 * windows環境
 * [McNeel社のRhinoceros](http://www.rhino3d.co.jp/product/price_edu.html#rhino)※1
+* [RhinocerosのプラグインのGrasshopper](http://www.grasshopper3d.com/page/download-1)
 * [Autodesk社のRevit](http://www.autodesk.com/education/free-software/revit)
 * [Visual Studio Express 2012](https://www.microsoft.com/en-us/download/details.aspx?id=34673&ppud=4)
 * [GitHub for windows](https://windows.github.com/)
